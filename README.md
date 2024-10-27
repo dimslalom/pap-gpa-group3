@@ -1,6 +1,15 @@
 # Crime Statistics Classification Analysis
 A comparative study of machine learning classification methods applied to crime statistics data.
 
+## Contributing
+This is a group project for *Predictive Modeling Analytics* . Contributors:
+- Dimas Gistha Adnyana - Data preprocessing and k-NN implementation
+- Nada Putri Pambudi - Naïve Bayes and Logistic Regression
+- Ameera Maritza Zayda - SVM and Decision Tree
+- Aqila Aulia - BPNN implementation
+
+#PLACEHOLDER README
+
 ## Project Overview
 This project implements and compares multiple classification algorithms to predict crime categories using a comprehensive crime statistics dataset. The analysis includes implementations of:
 - k-Nearest Neighbors (k-NN)
@@ -110,9 +119,3 @@ from src.models import evaluate_model
 results = evaluate_model(model, X_test, y_test)
 ```
 
-## Contributing
-This is a group project for [Course Name]. Contributors:
-- Dimas Gistha Adnyana - Data preprocessing and k-NN implementation
-- Nada Putri Pambudi - Naïve Bayes and Logistic Regression
-- Ameera Maritza Zayda - SVM and Decision Tree
-- Aqila Aulia - BPNN implementation
