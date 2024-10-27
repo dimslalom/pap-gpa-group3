@@ -8,7 +8,7 @@ This is a group project for *Predictive Modeling Analytics* . Contributors:
 - Ameera Maritza Zayda - SVM and Decision Tree
 - Aqila Aulia - BPNN implementation
 
-#PLACEHOLDER README
+# PLACEHOLDER README
 
 ## Project Overview
 This project implements and compares multiple classification algorithms to predict crime categories using a comprehensive crime statistics dataset. The analysis includes implementations of:
